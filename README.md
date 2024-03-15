@@ -17,4 +17,5 @@ EDA notebook: https://colab.research.google.com/drive/1fRpg2ZyZPCjLR3EM6Vbtq58Ez
 
 Initial Results and codes: 
   Initial results and codes notebook is this :    https://colab.research.google.com/drive/1I2UC7--BExTDSOfFby-OsmACDYbi-3ib?usp=sharing
+  
   Random forest for this research question: what are COVID-19 outcomes of  mortality,  for patients based on their demographic information, pre-existing conditions, symptoms, and geographic location? This is the link to the notebook: https://colab.research.google.com/drive/1VYPaR1-c_R1zd2GmvHV3Ewqj4mbT7ARM?usp=sharing
